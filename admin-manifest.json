@@ -4,7 +4,7 @@
   "short_name": "PVSS Admin",
   "description": "Puthenveettil Savings Scheme — Admin Panel",
   "start_url": "/pv-admin/?source=pwa",
-  "scope": "/pv-admin/"
+  "scope": "/pv-admin/",
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#f4f7fb",
